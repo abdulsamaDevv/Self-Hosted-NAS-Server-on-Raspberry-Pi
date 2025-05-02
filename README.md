@@ -23,7 +23,7 @@ Use [Raspberry Pi Imager](https://www.raspberrypi.com/software/) to flash Ubuntu
 2. Choose storage → your microSD card
 3. (Optional) Configure hostname, SSH, and Wi-Fi
 
-`docs/screenshots/Pi Imager`_
+`docs/screenshots/Pi Imager.png`_
 
 ---
 
